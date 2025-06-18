@@ -11,8 +11,6 @@ A professional Chrome extension for automated trading on the Tradovate platform.
 - 🛡️ **Error Handling**: Graceful error recovery and clear status reporting
 - 📈 **Signal Counter**: Tracks total signals received
 
-# Topstep, Apex and Tradovate Auto Trader - Installation & Setup Guide
-
 ## Installation
 
 1. **Download** the `tradovate_extension.crx` file
